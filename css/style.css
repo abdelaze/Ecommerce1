@@ -1,0 +1,149 @@
+body {
+  box-sizing: border-box;
+  padding-top: 50px;
+  height: 5000px;
+}
+
+
+.table-auto {
+    width: auto;
+  margin: 0 auto;
+}
+
+.main-table  td {
+  vertical-align: middle !important;
+}
+.main-table td img {
+  width: 40px;
+  height: 40px;
+  
+
+}
+
+#step2 {
+   display: none;
+}
+
+
+/*.navbar {
+  background-color: #3b5d8d;
+
+}
+
+.navbar-default .navbar-brand  {
+  color: #FFF;
+}
+.navbar-default .navbar-brand:hover  {
+  color: #FFF;
+}
+.navbar-default .navbar-nav>li>a {
+  color: #fff;
+}
+.navbar-default .navbar-nav>li>a:hover {
+
+    color: #FFF;
+}*/
+
+
+/* select box */
+
+.selectboxit-container .selectboxit-options {
+
+   
+    width: 210px;
+
+   
+    max-height: 240px;
+
+  }
+
+/* end select box */
+
+
+h2 {
+  font-size: 40px;
+  margin-bottom: 25px;
+  color: #777777;
+}
+.header {
+ 
+  height: 600px;
+  background-image: url("../images/abdo.jpg"); 
+  background-attachment:local;
+  position: relative;
+  overflow: hidden;
+   
+}
+
+
+ .logo {
+    position: absolute;
+    height: 500px;
+    background-image: url(../images/4.jpg);
+    background-repeat: no-repeat;
+    background-position: center; 
+    top: 100px;
+    width: 100%
+
+
+}
+
+/* END HEADER STYLE */
+
+/* START FEATURES STYLE */
+.features {
+
+  padding-top: 40px;
+  margin-bottom: 50px;
+}
+
+.Product {
+  margin-bottom: 20px;
+  margin-bottom: 25px;
+  text-align: center;
+  /*border:1px solid #ccc;
+  padding: 25px 20px;*/
+ 
+}
+.Product img {
+  height: 200px;
+}
+/* END FEATURES STYLE */
+
+
+
+/* start login page */
+.login-page form {
+   
+    max-width: 380px;
+    margin: auto;
+
+}
+
+.login-page form input {
+  margin-bottom: 15px; 
+}
+.login-page .signup {
+  display: none;
+}
+.login-page .selected {
+
+    color: #00F;
+
+}
+
+.login-page  span {
+   cursor: pointer;
+}
+
+.selected {
+   color: #0000ff;
+}
+
+
+
+
+
+
+
+/* end login page */

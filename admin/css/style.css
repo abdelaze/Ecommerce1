@@ -1,0 +1,93 @@
+body {
+  box-sizing: border-box;
+  padding-top: 70px;
+ 
+}
+
+h2 {
+  font-size: 50px;
+  margin-bottom: 25px;
+  color: #777777;
+}
+
+
+/* select box */
+
+.selectboxit-container .selectboxit-options {
+
+   
+    width: 210px;
+
+    max-height: 240px;
+
+  }
+
+/* end select box */
+
+
+
+/* start bootstrap style  */
+
+
+
+.star  {
+    
+    position: absolute;
+    top: 4px;
+    right: 22px;
+    color: #f00;
+    font-size: 30px;
+}
+
+.show {
+  position: absolute;
+  top:0px;
+  right: -25px;
+}
+
+
+.login {
+   
+   width: 400px;
+   margin: 100px auto; 
+   border :1px solid #ccc;
+   padding:80px 50px 50px;
+   background: #337ab7;
+   border-radius: 0px 150px 0px 0px;
+   height: 350px; 
+}
+.login h3 {
+  color: #f4f4f4;
+}
+
+.login input {
+  margin-bottom: 10px;
+}
+
+
+/*style navbar */
+/* Start Brands Page Design */
+.main-head{
+   
+   color: #5e5e5e;
+   font-weight: bold;
+
+}
+
+.table-auto {
+    width: auto;
+	margin: 0 auto;
+}
+
+.main-table  td {
+	vertical-align: middle !important;
+}
+.main-table td img {
+	width: 40px;
+	height: 40px;
+	
+
+}
+/* start bootstrap style  */
+
+
